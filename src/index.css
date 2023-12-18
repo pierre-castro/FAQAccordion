@@ -78,7 +78,7 @@ button:focus-visible {
     url("./assets/fonts/WorkSans-VariableFont_wght.ttf") format("truetype");
 }
 
-@media (max-width: 375px){
+@media (max-width: 412px){
   :root{
     background-image: url('./assets/images/background-pattern-mobile.svg');
   }

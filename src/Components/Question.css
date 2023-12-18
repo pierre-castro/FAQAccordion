@@ -45,7 +45,7 @@ details[open] summary::after {
     text-align: left;
 }
 
-@media (max-width: 375px){
+@media (max-width: 412px){
     .question:hover{
         color: black;
     }
