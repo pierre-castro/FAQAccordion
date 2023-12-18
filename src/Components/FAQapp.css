@@ -5,8 +5,8 @@
     margin: auto;
     margin-top: 20vh;
     padding-bottom: 40px;
-    padding-left: 120px;
-    padding-right: 80px;
+    padding-left: 5vw;
+    padding-right: 5vw;
     box-shadow: 0px 10px 10px hsla(293, 16%, 49%, 0.459) ;
     width: 60vw;
 }
@@ -27,9 +27,7 @@
 
 @media (max-width: 412px){
     .container{
-        padding-left: 20px;
-        padding-right: 20px;
-        width: 95vw;
+        width: 90vw;
     }
 
 }
