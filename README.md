@@ -21,4 +21,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@pierre-casto](https://www.frontendmentor.io/profile/pierre-castro)
+- Frontend Mentor - [@pierre-castro](https://www.frontendmentor.io/profile/pierre-castro)
